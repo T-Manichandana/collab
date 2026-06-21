@@ -1,4 +1,5 @@
 streamlit
 pandas
-google-generativeai
-ortools
+google-generativeai>=0.8.0
+ortools>=9.15.6755
+protobuf>=5.29.0
