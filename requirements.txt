@@ -1,0 +1,4 @@
+streamlit
+pandas
+google-generativeai
+ortools>=9.10.0,<9.16.0
